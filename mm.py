@@ -1,14 +1,6 @@
-#lets identify the data types
-f=5
+#printing variable and finding their data types
 
-t=7.12
+name=(input("enter your name"))
+print("congradulations for winning")
 
-p="data"
-
-com=False
-
-#printing data types
-print ("",type(f))
-print ("",type (t))
-print ("",type (p))
-print ("",type (com))
+#HW
